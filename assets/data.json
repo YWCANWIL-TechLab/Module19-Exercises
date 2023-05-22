@@ -1,0 +1,19 @@
+[
+    {
+        "firstName":"Johnny",
+        "lastName":"Appleseed",
+        "age":"Really, Really Old"
+    },
+
+    {
+        "firstName":"Frank",
+        "lastName":"Castle",
+        "age":40
+    },
+
+    {
+        "firstName":"Laika",
+        "lastName":"n/a",
+        "age":69
+    }
+]
